@@ -7,6 +7,7 @@ const RESOURCES = {
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/lib/assets/media/images/nosi_logo.png": "97d291db2098dc998e3aa47a9f71c703",
+"assets/loading_shape.gif": "014a6f641fba936c8c528cc69ed0e56f",
 "assets/NOTICES": "2ceedb153a9ddf191c47e7cb8b46fda6",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -14,9 +15,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1e4485015ca9df9baf9b3f582ae86e32",
-"/": "1e4485015ca9df9baf9b3f582ae86e32",
-"main.dart.js": "7a60636ef0b58561f205a752a3afc0e1",
+"index.html": "025cdeaec84997bd4efca1764b0f2d76",
+"/": "025cdeaec84997bd4efca1764b0f2d76",
+"main.dart.js": "a9d4dff18e0c46705df44f6202fa30f5",
 "manifest.json": "f7048ccba3323ef9b4483e53f4fdbd66",
 "version.json": "9856ffac2adad0d6fc0db02dff02b284"
 };

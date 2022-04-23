@@ -16136,7 +16136,7 @@ o.push(A.Y(p,3,"DOMAGOSO","ISKO MORENO","AKSYON","https://votepilipinas.com/cand
 o.push(A.Y(p,4,"GONZALES","NORBERTO","PDSP","https://votepilipinas.com/candidate/gonzales-norberto.html",A.a([0,2,0,2,2,0,1,2,2,0,0,0,3],n)))
 o.push(A.Y(p,5,"LACSON","PING","PDR","https://votepilipinas.com/candidate/lacson-ping.html",A.a([2,2,2,1,1,1,1,1,2,1,2,1,2],n)))
 o.push(A.Y(p,6,"MANGONDATO","FAISAL","KTPNAN","https://votepilipinas.com/candidate/mangondato-faisal.html",A.a([2,1,2,1,0,0,0,1,2,0,0,0,2],n)))
-o.push(A.Y(p,7,"MARCOS","BONBONG","PFP","https://votepilipinas.com/candidate/marcos-ferdinand.html",A.a([1,1,1,2,1,1,2,1,0,3,3,2,1],n)))
+o.push(A.Y(p,7,"MARCOS","BONGBONG","PFP","https://votepilipinas.com/candidate/marcos-ferdinand.html",A.a([1,1,1,2,1,1,2,1,0,3,3,2,1],n)))
 o.push(A.Y(p,8,"MONTEMAYOR","JOSE JR.","DPP","https://votepilipinas.com/candidate/montemayorjr-jose.html",A.a([2,1,2,2,0,1,1,1,2,2,0,0,2],n)))
 o.push(A.Y(p,9,"PACQUIAO","MANNY PACMAN","PROMDI","https://votepilipinas.com/candidate/pacquiao-manny.html",A.a([2,1,2,2,1,0,1,1,2,1,2,1,1],n)))
 o.push(A.Y(p,10,"ROBREDO","LENI","IND","https://votepilipinas.com/candidate/robredo-leni.html",A.a([2,2,1,1,2,3,1,1,2,2,2,1,2],n)))
