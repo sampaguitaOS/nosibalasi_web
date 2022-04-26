@@ -57877,7 +57877,7 @@ $.ac.toString
 return new A.Eg(1/q.gDd(q),1/(0.05*p))})
 s($,"apQ","acu",()=>A.ac2(0.78)/A.ac2(0.9))
 s($,"asP","aea",()=>new A.T1(A.v(t.N,A.P("ae<bA?>?(bA?)"))))
-s($,"aqF","acT",()=>A.Er("https://github.com/sampaguitaOS/nosibalasi",0,null))
+s($,"aqF","acT",()=>A.Er("https://github.com/sampaguitaOS/nosibalasi_web",0,null))
 s($,"aqY","a6m",()=>new A.u())
 r($,"al7","ad6",()=>new A.Rw($.a6m()))
 s($,"ar1","ada",()=>{var q,p=J.a8x(256,t.N)
