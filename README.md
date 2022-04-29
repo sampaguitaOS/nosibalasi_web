@@ -1,4 +1,4 @@
-# About nosi?balasi
+# About nosi?balasi BETA
 This is a Free and Open-Source (FOSS) voter's empowerment app that helps match voters with candidates based on their values and preferences. We take a voter-first approach by asking 13 questions on the most divisive issues and matching them to the statements and positions of candidates.
 
 ## Contributing
