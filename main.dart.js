@@ -52785,7 +52785,7 @@ case 2:if(!b)throw A.c("Could not launch "+A.e(q))
 return A.a1(null,r)}})
 return A.a2($async$nY,r)},
 N(a,b){var s=null,r=t.p
-return A.Dg(B.bq,A.De(A.a9V(A.kx(A.dC(new A.b5(B.yt,A.du(A.a([new A.eT(B.tL,s,s,A.AF(s,s,B.yU,s,new A.LC(b),B.ad),s),new A.b5(B.kO,A.du(A.a([new A.b5(B.b3,A.Q0("lib/assets/media/images/nosi_logo.png",1),s),A.du(B.A8,B.ee,B.Q),new A.b5(B.yn,A.du(A.a([B.K5,A.aa7(A.Q0("lib/assets/media/images/github_logo.png",2),this.gQS())],r),B.M,B.Q),s)],r),B.M,B.Q),s)],r),B.M,B.Q),s),s,700),s,s)),!0))}}
+return A.Dg(B.bq,A.De(A.a9V(A.kx(A.dC(new A.b5(B.yt,A.du(A.a([new A.eT(B.tL,s,s,A.AF(s,s,B.yU,s,new A.LC(b),B.ad),s),new A.b5(B.kO,A.du(A.a([new A.b5(B.b3,A.Q0("lib/assets/media/images/nosi_beta.png",1),s),A.du(B.A8,B.ee,B.Q),new A.b5(B.yn,A.du(A.a([B.K5,A.aa7(A.Q0("lib/assets/media/images/github_logo.png",2),this.gQS())],r),B.M,B.Q),s)],r),B.M,B.Q),s)],r),B.M,B.Q),s),s,700),s,s)),!0))}}
 A.LC.prototype={
 $0(){A.a51(this.a,A.l6(new A.LB(),null,t.z),A.a4Z("/"))},
 $S:0}
@@ -52835,7 +52835,7 @@ s.e=!s.e},
 $S:0}
 A.oC.prototype={
 N(a,b){var s=null,r=t.p
-return A.Dg(B.bq,A.De(A.kx(A.du(A.a([A.du(A.a([A.Q0("lib/assets/media/images/nosi_logo.png",s),B.JU],r),B.M,B.Q),A.du(A.a([new A.b5(B.cQ,A.O1(B.JL,new A.WT(b),A.zR(s,s,s,s,s,s,s,s,B.bI,s,B.yw,B.i,s,new A.cG(A.ys(40),B.p),s,s,s,s)),s),new A.b5(B.yl,A.um(A.a([B.K1,new A.b5(B.bw,A.AF(s,s,B.yY,s,new A.WU(b),B.ad),s)],r),B.qf,B.b9),s)],r),B.M,B.Q)],r),B.M,B.dt),s,s),!0))}}
+return A.Dg(B.bq,A.De(A.kx(A.du(A.a([A.du(A.a([A.Q0("lib/assets/media/images/nosi_beta.png",s),B.JU],r),B.M,B.Q),A.du(A.a([new A.b5(B.cQ,A.O1(B.JL,new A.WT(b),A.zR(s,s,s,s,s,s,s,s,B.bI,s,B.yw,B.i,s,new A.cG(A.ys(40),B.p),s,s,s,s)),s),new A.b5(B.yl,A.um(A.a([B.K1,new A.b5(B.bw,A.AF(s,s,B.yY,s,new A.WU(b),B.ad),s)],r),B.qf,B.b9),s)],r),B.M,B.Q)],r),B.M,B.dt),s,s),!0))}}
 A.WT.prototype={
 $0(){A.fG().$1("Quiz Initiated")
 var s=A.l6(new A.WS(),null,t.z)
@@ -52853,7 +52853,7 @@ $1(a){return B.tI},
 $S:341}
 A.mD.prototype={
 N(a,b){var s=null,r=t.p
-return A.Dg(B.bq,A.De(A.kx(A.dC(new A.b5(B.yu,A.du(A.a([new A.eT(B.k_,s,s,A.AF(s,s,B.l2,s,new A.Mx(b),B.bw),s),new A.b5(B.kO,A.du(A.a([new A.b5(B.b3,A.Q0("lib/assets/media/images/nosi_logo.png",1),s),B.JR],r),B.M,B.Q),s)],r),B.M,B.Q),s),s,700),s,s),!0))}}
+return A.Dg(B.bq,A.De(A.kx(A.dC(new A.b5(B.yu,A.du(A.a([new A.eT(B.k_,s,s,A.AF(s,s,B.l2,s,new A.Mx(b),B.bw),s),new A.b5(B.kO,A.du(A.a([new A.b5(B.b3,A.Q0("lib/assets/media/images/nosi_beta.png",1),s),B.JR],r),B.M,B.Q),s)],r),B.M,B.Q),s),s,700),s,s),!0))}}
 A.Mx.prototype={
 $0(){A.a51(this.a,A.l6(new A.Mw(),null,t.z),A.a4Z("/"))},
 $S:0}
