@@ -58311,12 +58311,12 @@ return A.oZ(B.b0,A.oY(A.hl(new A.aC(new A.a9(s,0,s,0),A.bV(B.Bd,B.J,B.DJ,B.u),nu
 A.md.prototype={
 aE(){return new A.KX(B.m)}}
 A.KX.prototype={
-M(a,b){var s,r,q,p,o,n,m,l,k,j=this,i=null,h="Pumili ng 1 kandidato\n",g=$.N.q()>430?700:1/0,f=$.N.q()>430?30:$.ab.q()*7,e=$.N.q()>430?30:$.cf.q()*5
+M(a,b){var s,r,q,p,o,n,m,l,k,j=this,i=null,h="Pumili ng 1 kandidato\n\nI-tap ang kanidadato para sa karagdagang info sa mga posisyon\n",g=$.N.q()>430?700:1/0,f=$.N.q()>430?30:$.ab.q()*7,e=$.N.q()>430?30:$.cf.q()*5
 g=A.dj(new A.aC(new A.a9(f,e,f,e),new A.e5(B.dd,i,i,A.tZ(i,i,A.CD(B.dv,B.i,$.N.q()>430?30:$.ab.q()*8),i,new A.a4C(b),B.cs,i),i),i),i,g)
 f=$.N.q()>430?30:$.cf.q()*4
 e=$.N.q()>430?50:$.ab.q()*13
 s=t.p
-r=A.bV(A.a([A.aW("I-tap ang kandidato para sa karagdagan info",i,A.al(i,i,B.i,i,i,i,i,i,i,i,i,$.N.q()>430?24:$.ab.q()*6.3,i,B.C,i,i,!0,i,i,i,i,i,i,i,i),B.aW,i)],s),B.J,B.D,B.u)
+r=A.bV(A.a([A.aW("I-tap para makita ang iyong resulta!",i,A.al(i,i,B.i,i,i,i,i,i,i,i,i,$.N.q()>430?24:$.ab.q()*6.3,i,B.C,i,i,!0,i,i,i,i,i,i,i,i),B.aW,i)],s),B.J,B.D,B.u)
 q=$.N.q()>430?700:1/0
 p=A.a([A.aW(h,i,A.al(i,i,i,i,i,i,i,i,i,i,i,$.N.q()>430?15:$.ab.q()*4,B.ct,i,i,i,!0,i,i,i,i,i,i,i,i),B.aW,i)],s)
 for(o=0;o<10;){n=j.a;++o
@@ -58327,7 +58327,7 @@ m=A.a([A.aW(h,i,A.al(i,i,i,i,i,i,i,i,i,i,i,$.N.q()>430?15:$.ab.q()*4,B.ct,i,i,i,
 for(o=0;o<9;){l=j.a;++o
 m.push(new A.nr(o,1,l.c,l.d,i))}p=A.dj(new A.nM(A.a([new A.o1(new A.a4F(),A.ct(i,new A.aC(B.bj,A.bV(m,B.J,B.cI,B.u),i),B.n,i,i,B.eE,i,i,i,i,B.lO,i,i,i),j.e)],n),new A.a4G(j),B.aC,i),i,p)
 m=$.N.q()>430?700:1/0
-l=A.a([A.aW("Pumili ng hangang 12 na kandidato\nOk lang kung hindi mo mapuno",i,A.al(i,i,i,i,i,i,i,i,i,i,i,$.N.q()>430?15:$.ab.q()*4,B.ct,i,i,i,!0,i,i,i,i,i,i,i,i),B.aW,i)],s)
+l=A.a([A.aW("Pumili ng hangang 12 na kandidato\nOk lang kung hindi mo mapuno\n\nI-tap ang kanidadato para sa karagdagang info sa mga posisyon\n",i,A.al(i,i,i,i,i,i,i,i,i,i,i,$.N.q()>430?15:$.ab.q()*4,B.ct,i,i,i,!0,i,i,i,i,i,i,i,i),B.aW,i)],s)
 for(o=0;o<63;){k=j.a;++o
 l.push(new A.nr(o,2,k.c,k.d,i))}return A.oZ(B.b0,A.oY(A.hl(A.YQ(A.bV(A.a([g,new A.aC(new A.a9(e,f,e,f),r,i),q,p,A.dj(new A.nM(A.a([new A.o1(new A.a4H(),A.ct(i,A.bV(l,B.J,B.cI,B.u),B.n,i,i,B.eE,i,i,i,i,B.zD,i,i,i),j.f)],n),new A.a4I(j),B.aC,i),i,m)],s),B.J,B.cI,B.u)),i,i),!0))}}
 A.a4C.prototype={
