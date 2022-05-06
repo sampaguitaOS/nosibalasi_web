@@ -1,0 +1,84 @@
+{
+  "Splash": {
+    "desc": "Usa ka app sa paghatag gahum sa mga botante",
+    "start_quiz": "SUGOD",
+    "learn_more": "Pagkat-on pa",
+    "data_disc": "Unsa ang among gibuhat sa imong data"
+  },
+  "QuizCard": {
+    "issue": "Isyu",
+    "LM": "Pagkat-on pa...",
+    "prev": "Mobalik"
+  },
+  "Questions": {
+    "q1": "Uyon ba ka sa abortion?",
+    "q2": "Uyon ba ka sa death penalty?",
+    "q3": "Uyon ba ka sa same-sex unions?",
+    "q4": "Uyon ba ka sa pag legal sa diborsyo?",
+    "q5": "Uyon ba ka sa pagmina?",
+    "q6": "Uyon ba ka na ipa-wala ang NTF-ELCAC?",
+    "q7": "Uyon ba ka ina dipensa ang West PH Sea kontra sa China?",
+    "q8": "Uyon ba ka na ipadayon ang drug war?",
+    "q9": "Uyon ba ka ug EJK?",
+    "q10": "Uyon ba ka sa Anti-Terror Law?",
+    "q11": "Uyon ba ka na gipasirado ni Duterte ang ABS-CBN?",
+    "q12": "Uyon ba ka na kolektahon ang PHP 203B na buwis na wala gibayran ni Marcos?",
+    "q13": "Uyon ba ka sa mga political dynasties?"
+  },
+  "DescLabel": {
+    "dl1": "Unsa ang abortion?",
+    "dl2": "Unsa ang the death penalty?",
+    "dl3": "What are same-sex unions?",
+    "dl4": "Unsa ang diborsyo?",
+    "dl5": "Unsa ang pagmina?",
+    "dl6": "Unsa ang NTF-ELCAC?",
+    "dl7": "Unsa ang West Philippine Sea?,",
+    "dl8": "Unsa ang drug war",
+    "dl9": "Unsa ang EJK?",
+    "dl10": "Unsa ang Anti-Terror Law?",
+    "dl11": "Unsa ang ABS-CBN shutdown?",
+    "dl12": "Unsa ang Marcos tax?",
+    "dl13": "Unsa ang political dynasties?"
+  },
+  "Description": {
+    "d1": "walay deskripsyon nga magamit",
+    "d2": "walay deskripsyon nga magamit",
+    "d3": "walay deskripsyon nga magamit",
+    "d4": "walay deskripsyon nga magamit",
+    "d5": "walay deskripsyon nga magamit",
+    "d6": "walay deskripsyon nga magamit",
+    "d7": "walay deskripsyon nga magamit",
+    "d8": "walay deskripsyon nga magamit",
+    "d9": "walay deskripsyon nga magamit",
+    "d10": "walay deskripsyon nga magamit",
+    "d11": "walay deskripsyon nga magamit",
+    "d12": "walay deskripsyon nga magamit",
+    "d13": "walay deskripsyon nga magamit"
+  },
+  "Results": {
+    "header": "I-tap aron makita ang imong mga resulta!",
+    "president": "Presidente",
+    "vicepres": "Bise-Presidente",
+    "senate": "Mga Senador",
+    "pick_1": "Pagpili og 1 ka kandidato\n",
+    "cand_tap": "I-tap ang mga kandidato aron makita ang dugang nga impormasyon sa ilang mga posisyon.\n",
+    "pick_senate": "Pagpili hangtod sa 12 ka kandidato\n\nOkay ra na dili mo boto hangtod 12\n\n"
+  },
+  "Compare": {
+    "running": "Nagdagan alang sa {}",
+    "SamePos": {
+      "same_header": "Parehas nga mga Posisyon",
+      "spabor" : "{} ay PABOR usab sa:",
+      "sdiPabor" : "{} ay DI PABOR usab sa:",
+      "swala" : "{} ay WALA usab sa:",
+      "sewan" : "{} adunay pipila EWAN usab sa:"
+    },
+    "DifPose": {
+      "dif_header": "Lahi nga mga Posisyon",
+      "dpabor" : "{} ay PABOR usab sa:",
+      "ddiPabor" : "{} ay DI PABOR usab sa:",
+      "dwala" : "{} ay WALA usab sa:",
+      "dewan" : "{} adunay pipila EWAN usab sa:"
+    }
+  }
+}
