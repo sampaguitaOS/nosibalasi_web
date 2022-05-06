@@ -114,10 +114,10 @@ static const Map<String,dynamic> es = {
     "q1": "Uyon ba ka sa abortion?",
     "q2": "Uyon ba ka sa death penalty?",
     "q3": "Uyon ba ka sa same-sex unions?",
-    "q4": "Uyon ba ka sa pag legal sa diborsyo?",
+    "q4": "Uyon ka ba na himuong legal ang diborsyo?",
     "q5": "Uyon ba ka sa pagmina?",
     "q6": "Uyon ba ka na ipa-wala ang NTF-ELCAC?",
-    "q7": "Uyon ba ka ina dipensa ang West PH Sea kontra sa China?",
+    "q7": "Uyon ka ba na depensahan ang West PH Sea kontra China?",
     "q8": "Uyon ba ka na ipadayon ang drug war?",
     "q9": "Uyon ba ka ug EJK?",
     "q10": "Uyon ba ka sa Anti-Terror Law?",
@@ -205,8 +205,8 @@ static const Map<String,dynamic> fil = {
     "q8": "Pabor ka ba na ipatuloy ang drug war?",
     "q9": "Pabor ka ba sa EJK?",
     "q10": "Pabor ka ba sa Anti-Terror Law?",
-    "q11": "Pabor ka ba sa pagsarado ni Duterte ng ABS-CBN?",
-    "q12": "Pabor ka ba sa pangkolekta ng Php203B na utang na buwis ni Marcos?",
+    "q11": "Pabor ka ba sa pagsara ni Duterte ng ABS-CBN?",
+    "q12": "Pabor ka ba sa pagkolekta ng Php 203B na utang na buwis ni Marcos?",
     "q13": "Pabor ka ba sa mga political dynasties?"
   },
   "DescLabel": {
